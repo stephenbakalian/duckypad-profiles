@@ -1,1 +1,7 @@
-WINDOWS TAB
+WINDOWS r
+
+DELAY 600
+
+STRING diskmgmt.msc
+
+ENTER
